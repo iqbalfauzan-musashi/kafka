@@ -58,8 +58,8 @@ const globalConfig = {
   connectionTimeout: 5000,
   maxRetries: 5,
   resetSchedule: {
-    hour: 14,    // Jam reset (format 24 jam)
-    minute: 0,   // Menit reset
+    hour: 16,    // Jam reset (format 24 jam)
+    minute: 24,   // Menit reset
     timezone: 'Asia/Jakarta'
   }
 };
